@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GigaCodeAgentSettings">
+    <option name="autoApprovedCommands">
+      <list>
+        <Execute>
+          <option name="pattern" value="mkdir D:\PythonProject\TicTac\src" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="echo Проект TicTacToe успешно создан. Запустите игру командой: python main.py &gt; D:\PythonProject\TicTac\README.md" />
+        </Execute>
+      </list>
+    </option>
+    <option name="autoApprovedReads">
+      <list>
+        <Read>
+          <option name="pattern" value="$PROJECT_DIR$/../../ProjectsC/MauiTicTac/*" />
+        </Read>
+      </list>
+    </option>
+  </component>
+</project>
